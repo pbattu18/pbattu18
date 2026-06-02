@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Pranav Battu
 
-<!--
-**pbattu18/pbattu18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Graduate from Arizona State University
 
-Here are some ideas to get you started:
+Interested in:
+- Cybersecurity
+- Cloud Infrastructure
+- Distributed Systems
+- AI/LLM Applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+### GymTracker
+Full-stack fitness tracking platform built with React and TypeScript.
+
+### TutorAI
+AI-powered tutoring platform built during DevHacks.
+
+### News Summarizer
+Real-time news scraping and NLP summarization system.
+
+### DigiClips Capstone
+AWS Lightsail deployment and web application modernization project.
+
+## Currently Learning
+
+- AWS
+- Networking
+- Cloud Security
+- Distributed Systems
